@@ -27,5 +27,7 @@ This project is part of the job application process for **FINLEAP**.
 - More tests can be added for extreme cases.
 - Nothing was particularly hard in development process. But it took so much time which i expected because of the configurational problems of the development IDE.
 - Annotations, component scans, separated modules can cause confusion in IDE.  
+**How to Run:**
+- You can run mvn spring-boot:run command in weather-server directory
 
 
