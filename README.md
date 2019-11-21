@@ -1,7 +1,6 @@
 
 **WEATHER FORECAST API**
 -
-This project is part of the job application process for **FINLEAP**.
 
 **Main Objectives For This Project:**
 -
